@@ -7,12 +7,12 @@ Search for Task Scheduler in Search and run it.
 ![](images/1.png)
 
 Give it a name,description(optional) and in the drop down menu "Configure for" select your Windows version.
-![](images/2.jpg)
+![](images/2.JPG)
 
 Go to triggers in the bar, then click new and from the drop down section named "Begin the task" select "At startup"
-![](images/3.jpg)
+![](images/3.JPG)
 
 After that select "Actions" in the bar and create a new action. Action should be set to "Start a program", on the program/script section browse the script you downloaded from the repo named LogOnSound.vbs.
-![](images/4.jpg)
+![](images/4.JPG)
 
 After you've done that just clik ok and ok and you're set.

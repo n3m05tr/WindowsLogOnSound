@@ -9,6 +9,6 @@ After you've cloned/downloaded the script you have to change the destination of 
 
 [Go to triggers in the bar, then click new and from the drop down section named "Begin the task" select "At startup"]()
 
-[After that select "Actions" in the bar and create a new action. Action should be set to "Start a program", on the program/script section browse the script you downloaded from the repo named LogOnSound.vbs.] ()
+[After that select "Actions" in the bar and create a new action. Action should be set to "Start a program", on the program/script section browse the script you downloaded from the repo named LogOnSound.vbs.]()
 
 After you've done that just clik ok and ok and you're set.

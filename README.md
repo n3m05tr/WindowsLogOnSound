@@ -3,7 +3,8 @@ This is a script that you can configure to play any .wav when you startup your C
 
 After you've cloned/downloaded the script you have to change the destination of your wav file in the .vbs file with a text editor(if you don't have one just use notepad).
 
-[Search for Task Scheduler in Search and run it.](images/1.png)
+Search for Task Scheduler in Search and run it.
+[](images/1.png)
 
 [Give it a name,description(optional) and in the drop down menu "Configure for" select your Windows version.](images/2.jpg)
 

@@ -1,4 +1,4 @@
-# LogOnSound
+# Windows LogOn Sound playing script
 This is a script that you can configure to play any .wav when you startup your Computer using [Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler). The tutorial with pictures is available below!
 
 After you've cloned/downloaded the script you have to change the destination of your wav file in the .vbs file with a text editor(if you don't have one just use notepad).
